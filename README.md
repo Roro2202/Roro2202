@@ -36,13 +36,10 @@ Thanks for visiting my profile! Stay tuned for future updates and feel free to c
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-## ☝️ Other Facts
- - MBTI - INFJ 🧐
- - Sports 🏓🏸🎳 
- 
+
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/robmeynard) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rowrwoh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robmeynardb) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/robmeynard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robmeynardb) 
 
 
 
