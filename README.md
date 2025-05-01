@@ -26,20 +26,18 @@
 
 
 ## 🤷‍♂️ About Me
-I'm currently a student with a deep passion for technology and a strong desire to learn and grow in the field. Although I'm just starting out, I'm eager to dive into various areas like web development, cybersecurity,  and build a solid foundation of skills.
+I'm passionate about technology and always eager to learn and grow. I'm exploring areas like web development, cybersecurity, and software development to build a strong foundation and create solutions to real-world problems.
 
-As I continue my studies, I'm focused on understanding the fundamentals and exploring new technologies that can solve real-world problems. I believe in the power of continuous learning and am excited to start contributing to the tech community.
+Currently, I'm working on personal projects that I plan to share here soon. GitHub is my space to document my journey, collaborate with others, and track my progress as I continue to grow in the tech field.
 
-Even though I don't have any repositories yet, I'm actively working on building projects that I plan to share soon. My goal is to use GitHub as a platform to document my journey, collaborate with others, and track my progress as I grow from a learner to a contributor.
-
-Thanks for visiting my profile! Stay tuned for future updates and feel free to connect if you'd like to discuss technology, learning, or anything else.
+Thanks for stopping by! Feel free to connect if you'd like to discuss technology, learning, or future collaborations.
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/robmeynard) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robmeynardb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robmeynardb) 
 
 
 
